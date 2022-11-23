@@ -2,7 +2,7 @@
 
 union rectangle
 {
-    // the elements share same memory location
+    // the elements share same memory location. The size of the unio datatype will be the maximum size of a data member. In union the data member which is declared in the last will be printed correctly. 
     int length;
     int width;
 };

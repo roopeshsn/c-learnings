@@ -1,7 +1,8 @@
 #include <stdio.h>
 #include <stdlib.h>
+#include <string.h>
 
-// Dynamic Memory Allocation -> Memory will be allocated in runtime
+// Dynamic Memory Allocation -> Memory will be allocated in runtime. Through DMA we can achieve efficient memory usage.
 
 // malloc() -> allocate memory to user defined datatypes -> return void *
 // calloc() -> allocate memory to derived datatypes
@@ -14,5 +15,11 @@
 // 32-bit compiler int -> 4bytes
 
 int main() {
-    return 0;
+    char *man;
+    char nam[5];
+    man = malloc(5);
+    strcpy(man, "Roopesh");
+    strcpy(nam, "Legend Roopesh");
+    printf("%s", man);
+    printf("%s", nam);
 }
