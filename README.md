@@ -1,5 +1,7 @@
 # C Learnings
 
+My learnings in the C programming language
+
 ## Problems with C
 
 ### C has too weak type safety
