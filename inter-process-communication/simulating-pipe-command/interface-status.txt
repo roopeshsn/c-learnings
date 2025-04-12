@@ -1,0 +1,76 @@
+Port       Name                                 Status       Vlan     Duplex Speed  Type         Flags Encapsulation
+Et1/1                                           notconnect   1        full   100G   Not Present                    
+Et2/1                                           notconnect   1        full   100G   Not Present                    
+Et3/1                                           notconnect   1        full   100G   Not Present                    
+Et4/1                                           notconnect   1        full   100G   Not Present                    
+Et5/1                                           notconnect   1        full   100G   Not Present                    
+Et6/1                                           notconnect   1        full   100G   Not Present                    
+Et7/1                                           notconnect   1        full   100G   Not Present                    
+Et8/1                                           notconnect   1        full   100G   Not Present                    
+Et9/1                                           notconnect   1        full   100G   Not Present                    
+Et10/1                                          notconnect   1        full   100G   Not Present                    
+Et11/1                                          notconnect   1        full   100G   Not Present                    
+Et12/1                                          notconnect   1        full   100G   Not Present                    
+Et13/1                                          notconnect   1        full   100G   Not Present                    
+Et14/1                                          notconnect   1        full   100G   Not Present                    
+Et15/1                                          notconnect   1        full   100G   Not Present                    
+Et16/1                                          notconnect   1        full   100G   Not Present                    
+Et17/1                                          notconnect   1        full   100G   Not Present                    
+Et18/1                                          notconnect   1        full   100G   Not Present                    
+Et19/1                                          notconnect   1        full   100G   Not Present                    
+Et20/1                                          notconnect   1        full   100G   Not Present                    
+Et21/1                                          disabled     routed   full   10G    Not Present                    
+Et21/2                                          errdisabled  1        full   25G    Not Present                    
+Et21/3                                          errdisabled  1        full   25G    Not Present                    
+Et21/4                                          errdisabled  1        full   25G    Not Present                    
+Et22/1                                          notconnect   1        full   100G   Not Present                    
+Et23/1                                          notconnect   1        full   100G   Not Present                    
+Et24/1                                          notconnect   1        full   100G   Not Present                    
+Et25/1                                          notconnect   1        full   100G   Not Present                    
+Et26/1                                          notconnect   1        full   100G   Not Present                    
+Et27/1                                          notconnect   1        full   100G   Not Present                    
+Et28/1                                          notconnect   1        full   100G   Not Present                    
+Et29/1                                          notconnect   1        full   100G   Not Present                    
+Et30/1                                          notconnect   1        full   100G   Not Present                    
+Et31/1                                          notconnect   1        full   100G   Not Present                    
+Et32/1                                          notconnect   1        full   100G   Not Present                    
+Et33/1                                          notconnect   1        full   100G   Not Present                    
+Et34/1                                          notconnect   1        full   100G   Not Present                    
+Et35/1                                          notconnect   1        full   100G   Not Present                    
+Et36/1                                          notconnect   1        full   100G   Not Present                    
+Et37/1                                          notconnect   1        full   100G   Not Present                    
+Et38/1                                          notconnect   1        full   100G   Not Present                    
+Et39/1                                          notconnect   1        full   100G   Not Present                    
+Et40/1                                          notconnect   1        full   100G   Not Present                    
+Et41/1                                          notconnect   1        full   100G   Not Present                    
+Et42/1                                          notconnect   1        full   100G   Not Present                    
+Et43/1                                          notconnect   1        full   100G   Not Present                    
+Et44/1                                          notconnect   1        full   100G   Not Present                    
+Et45/1                                          notconnect   1        full   100G   Not Present                    
+Et46/1                                          notconnect   1        full   100G   Not Present                    
+Et47/1                                          notconnect   1        full   100G   Not Present                    
+Et48/1                                          notconnect   1        full   40G    Not Present                    
+Et49/1                                          connected    routed   full   40G    40GBASE-SR4                    
+Et50/1                                          notconnect   routed   full   40G    40GBASE-SR4                    
+Et51/1     MLAG_PEER_MDRBLFSWT002_Ethernet51/1  notconnect   1        full   10G    Not Present                    
+Et51/2                                          notconnect   1        full   10G    Not Present                    
+Et51/3                                          notconnect   1        full   10G    Not Present                    
+Et51/4                                          notconnect   1        full   10G    Not Present                    
+Et52/1     MLAG_PEER_MDRBLFSWT002_Ethernet52/1  notconnect   routed   full   40G    40GBASE-CR4                    
+Et53/1                                          notconnect   1        full   10G    Not Present                    
+Et53/2                                          notconnect   1        full   10G    Not Present                    
+Et53/3                                          notconnect   1        full   10G    Not Present                    
+Et53/4                                          notconnect   1        full   10G    Not Present                    
+Et54/1     P2P_LINK_TO_MDRSPNSWT002_Ethernet3/1 notconnect   routed   full   10G    Not Present                    
+Et54/2                                          notconnect   1        full   10G    Not Present                    
+Et54/3                                          notconnect   1        full   10G    Not Present                    
+Et54/4                                          notconnect   1        full   10G    Not Present                    
+Et55/1                                          connected    routed   full   10G    40GBASE-SR4                    
+Et55/2                                          connected    1        full   10G    40GBASE-SR4                    
+Et55/3                                          connected    1        full   10G    40GBASE-SR4                    
+Et55/4                                          connected    1        full   10G    40GBASE-SR4                    
+Et56/1                                          notconnect   1        full   10G    Not Present                    
+Et56/2                                          notconnect   1        full   10G    Not Present                    
+Et56/3                                          notconnect   1        full   10G    Not Present                    
+Et56/4                                          notconnect   1        full   10G    Not Present                    
+Ma1                                             connected    routed   a-full a-1G   10/100/1000                    
