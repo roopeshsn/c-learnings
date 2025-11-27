@@ -1,18 +1,28 @@
 # C Learnings
 
-My learnings in the C programming language
+My learnings in the C programming language.
+
+## Compile and Run a Program using gcc or clang
+
+```
+gcc linked-list/ll.c -o linked-list/ll
+./linked-list/ll
+```
 
 ## Problems with C
 
 ### C has too weak type safety
+
 ```
 for (int i = 0; n; ++i) {
    printf("Hi C! \n");
 }
 ```
+
 C cannot even catch simple mistakes such as this where you used a non-boolean condition. It was supposed to say `i < n`. 
 
 ### Memory Allocation and Freeing
+
 In C, It kind of manual allocation. Whenever you receive a pointer to some data, you never know if it is your problem to de-allocate it or not.
 
 ## Reference
